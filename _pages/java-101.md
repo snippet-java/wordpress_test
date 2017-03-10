@@ -23,7 +23,15 @@ inkblot_webcomic_term_image:
 **Before you begin: ** This course uses **live code** technology. It will allow you to experiment and learn a new language very quickly without using any compilers or additional tools. We will also be testing you at the end of each learning module.   
   
 Click the “Run” button to see results.   
-[playground allow_anonymous="yes" height="150"] public class Hello { public static void main(String [] args) { System.out.println("Hello World!!!!!"); } } [/playground]   
+[playground allow_anonymous="yes" height="150"] 
+
+public class Hello { 
+  public static void main(String [] args) { 
+    System.out.println("Hello World!!!!!"); 
+  } 
+} 
+
+[/playground]   
   
 Traditionally the first program people write in a new language is called **hello world** because all it does is display the words **Hello, World**. In Java, this program looks like above snippet.   
   
